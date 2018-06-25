@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">The English Football</string>
+    <string name="action_settings">Settings</string>
+    <string name="all_matches_url">http://api.football-data.org/v1/competitions/445/fixtures</string>
+    <string name="one_matches_url">http://api.football-data.org/v1/fixtures/</string>
+    <string name="api_auth_header">X-Auth-Token</string>
+    <string name="api_fixtures">fixtures</string>
+    <string name="api_homeTeamName">homeTeamName</string>
+    <string name="api_awayTeamName">awayTeamName</string>
+    <string name="api_date">date</string>
+    <string name="api_links">_links</string>
+    <string name="api_self">self</string>
+    <string name="api_href">href</string>
+    <string name="api_status">status</string>
+    <string name="api_finished">FINISHED</string>
+    <string name="api_inplay">IN_PLAY</string>
+    <string name="api_result">result</string>
+    <string name="api_result_goalsHomeTeam">goalsHomeTeam</string>
+    <string name="api_result_goalsAwayTeam">goalsAwayTeam</string>
+    <string name="api_fixture">fixture</string>
+    <string name="favButtonDesc">Add</string>
+    <string name="server_error">Server Error! Try later!</string>
+    <string name="unexpected_error">Unexpected Error happened!</string>
+    <string-array name="toggle_options">
+        <item>All</item>
+        <item>Favourite</item>
+        <item>Select</item>
+    </string-array>
+</resources>
